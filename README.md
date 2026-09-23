@@ -48,5 +48,5 @@ allow filtering by customer, product, location and time dimensions.
 - README.md
 
 ### Author
-Your Name
+Soumyadeep Das
 ApexPlanet Data Analytics Intern
